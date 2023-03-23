@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DTwrappers"]
+	path = DTwrappers
+	url = https://github.com/cran/DTwrappers
+	shallow = true
+	registered = true
+[submodule "getDTeval"]
+	path = getDTeval
+	url = https://github.com/cran/getDTeval
+	shallow = true
+	registered = true
